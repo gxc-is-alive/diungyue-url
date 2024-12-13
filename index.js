@@ -17,7 +17,7 @@ async function pushToGit() {
   const git = simpleGit();
   await git.add("./*");
   await git.commit("Auto commit: Downloaded files");
-  await git.push();
+  await git.push("origin");
   console.log("Pushed to Git repository");
 }
 
