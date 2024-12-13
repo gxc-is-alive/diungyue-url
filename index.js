@@ -25,12 +25,12 @@ const task = async () => {
   console.log("Starting download and push process...");
   await downloadFile(
     "https://sublink.naiko.org/link/vzy9hEQkgTd9BJ2B?clash=1",
-    "dist/tizi.yaml"
+    "docs/tizi.yaml"
   );
-  //   await downloadFile(
-  //     "https://dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1",
-  //     "dist/tizi1.yaml"
-  //   );
+  await downloadFile(
+    "https://dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1",
+    "docs/tizi1.yaml"
+  );
   console.log("downloaded");
   await pushToGit();
   console.log("Process completed.");
@@ -38,6 +38,6 @@ const task = async () => {
 task();
 
 // 定时任务，每天凌晨1点执行
-cron.schedule("0 1 * * *", async () => {
+cron.schedule("0 9 * * *", async () => {
   task();
 });
