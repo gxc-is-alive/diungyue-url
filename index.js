@@ -27,10 +27,10 @@ const task = async () => {
     "https://sublink.naiko.org/link/vzy9hEQkgTd9BJ2B?clash=1",
     "dist/tizi.yaml"
   );
-  await downloadFile(
-    "https://dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1",
-    "dist/tizi1.yaml"
-  );
+  //   await downloadFile(
+  //     "https://dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1",
+  //     "dist/tizi1.yaml"
+  //   );
   console.log("downloaded");
   await pushToGit();
   console.log("Process completed.");
