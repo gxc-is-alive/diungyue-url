@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://ap.dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2024-12-13 11:02:49
+## 上次更新于：2024-12-14 09:00:03
 #---------------------------------------------------#
 
 port: 7890
@@ -16,8 +16,8 @@ proxies:
   -
     name: '🇹🇼 v0丨免费丨台湾丨02'
     type: trojan
-    server: adfcscjkadlkncacx.kulime.space
-    port: 4143
+    server: tt02.alljie.space
+    port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: taiw02.kulime.space
   -
