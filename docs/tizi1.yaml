@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://ap.dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2024-12-24 09:00:03
+## 上次更新于：2024-12-25 09:00:03
 #---------------------------------------------------#
 
 port: 7890
@@ -96,7 +96,7 @@ proxies:
     server: v1tw01.alljie.space
     port: 52035
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: tw02.kulime.space
+    sni: tai03fqi.kulime.space
   -
     name: '🇹🇼 火箭丨台湾丨彰化丨600m'
     type: trojan
