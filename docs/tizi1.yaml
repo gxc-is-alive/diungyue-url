@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://ap.dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-01-07 09:00:03
+## 上次更新于：2025-01-08 09:00:04
 #---------------------------------------------------#
 
 port: 7890
@@ -28,6 +28,293 @@ proxies:
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: tai001.kulime.space
   -
+    name: '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
+    type: trojan
+    server: els01.alljie.space
+    port: 55445
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: els1.kulime.space
+  -
+    name: '🇮🇳 火箭丨印度丨孟买'
+    type: trojan
+    server: ydzhongzhuan.alljie.space
+    port: 52027
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: yindu1.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
+    type: trojan
+    server: tw05.alljie.space
+    port: 52037
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: zhanghua.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
+    type: trojan
+    server: bgptw02.alljie.space
+    port: 52038
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: taiwjing.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
+    type: trojan
+    server: vip2shentai.alljie.space
+    port: 32103
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: taiwjing.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨原生丨Trojan丨静态'
+    type: trojan
+    server: ttj01.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: taiwjing.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨原生丨三网直连'
+    type: trojan
+    server: taitai03.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hdgwe.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨原生丨深台中继丨1'
+    type: trojan
+    server: st01.alljie.space
+    port: 52004
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: taiw02.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
+    type: trojan
+    server: st02.alljie.space
+    port: 52006
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: tai001.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨原生丨深台中转'
+    type: trojan
+    server: v1tw01.alljie.space
+    port: 52035
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: tai03fqi.kulime.space
+  -
+    name: '🇹🇼 火箭丨台湾丨彰化丨600m'
+    type: trojan
+    server: zhanghua.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: zhanghua.kulime.space
+  -
+    name: '🇩🇪 火箭丨德国丨3x'
+    type: trojan
+    server: st02.alljie.space
+    port: 11154
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: yuenadjkdc.kulime.space
+  -
+    name: '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
+    type: trojan
+    server: xinjp.alljie.space
+    port: 10018
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: xjp.allzhen.com
+  -
+    name: '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
+    type: trojan
+    server: hunan.alljie.space
+    port: 10019
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: xjp.allzhen.com
+  -
+    name: '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
+    type: trojan
+    server: jp05.alljie.space
+    port: 52021
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: yinghua02.allzhen.com
+  -
+    name: '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
+    type: trojan
+    server: jp05.alljie.space
+    port: 10014
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: gujspaskjnc.kulime.space
+  -
+    name: '🇨🇳 火箭丨日本丨上海-日本ntt丨中继'
+    type: trojan
+    server: shlt.alljie.space
+    port: 52026
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: yinghua02.allzhen.com
+  -
+    name: '🇨🇳 火箭丨日本丨原生丨上海-日本丨3x'
+    type: trojan
+    server: changsha.alljie.space
+    port: 52011
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: gujspaskjnc.kulime.space
+  -
+    name: '🇯🇵 火箭丨日本丨原生丨深日中继'
+    type: trojan
+    server: srzhongji.alljie.space
+    port: 52014
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: gujspaskjnc.kulime.space
+  -
+    name: '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
+    type: trojan
+    server: azjp.alljie.space
+    port: 52040
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: yinghua02.allzhen.com
+  -
+    name: '🇫🇷 火箭丨法国丨巴黎丨AWS'
+    type: trojan
+    server: st02.alljie.space
+    port: 50021
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: fg.allzhen.com
+  -
+    name: '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
+    type: trojan
+    server: usz.alljie.space
+    port: 32392
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us03.allzhen.com
+  -
+    name: '🇺🇲 火箭丨美国丨微软丨03丨原生'
+    type: trojan
+    server: zhongji03.alljie.space
+    port: 55461
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us03.kulime.space
+  -
+    name: '🇺🇲 火箭丨美国丨微软丨沪美中继'
+    type: trojan
+    server: bgp1.alljie.space
+    port: 52007
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us03.allzhen.com
+  -
+    name: '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
+    type: trojan
+    server: azus06.alljie.space
+    port: 11153
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us03.allzhen.com
+  -
+    name: '🇺🇲 火箭丨美国丨直连'
+    type: trojan
+    server: us02.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us03.kulime.space
+  -
+    name: '🇬🇧 火箭丨英国丨伦敦丨AWS'
+    type: trojan
+    server: yingguo.yuncyo.xyz
+    port: 10020
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.kulime.space
+  -
+    name: '🇰🇷 火箭丨韩国丨原生丨'
+    type: trojan
+    server: huhan01.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hanguo1.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
+    type: trojan
+    server: huig03.alljie.space
+    port: 52039
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk10.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
+    type: trojan
+    server: bgpwr.alljie.space
+    port: 11152
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇭🇰 火箭丨香港丨BGP中继丨03丨HKT丨1Gbps'
+    type: trojan
+    server: zhongji03.alljie.space
+    port: 10023
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hgc03.allzhen.com
+  -
+    name: '🇭🇰 火箭丨香港丨BGP中继丨04丨流媒体专用'
+    type: trojan
+    server: v2bgp04.alljie.space
+    port: 47651
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hknetflix.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨BGP中继丨05丨'
+    type: trojan
+    server: hugang03.alljie.space
+    port: 20025
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hkbj.alljie.space
+  -
+    name: '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
+    type: trojan
+    server: bgp01.alljie.space
+    port: 32406
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨BGP微软丨2x'
+    type: trojan
+    server: bgpwz02.alljie.space
+    port: 20000
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az100.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
+    type: trojan
+    server: guangzhou.alljie.space
+    port: 52100
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇭🇰 火箭丨香港丨HKG丨原生丨移动优化丨'
+    type: trojan
+    server: hk05.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨HKT丨02丨原生丨直连'
+    type: trojan
+    server: hk020.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: adfcscjkadlkncacx.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
+    type: trojan
+    server: az04.yuncyo.xyz
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az04asdcadcwcwqfrg.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨Trojan丨原生'
+    type: trojan
+    server: hk101.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk10.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨三网优化丨2'
+    type: trojan
+    server: az03.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk111.kulime.space
+  -
     name: '🇭🇰 火箭丨香港丨三网直连丨1 '
     type: trojan
     server: hk04.alljie.space
@@ -35,12 +322,425 @@ proxies:
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: hk04.kulime.space
   -
+    name: '🇭🇰 火箭丨香港丨三网直连丨2'
+    type: trojan
+    server: hk07.alljie.space
+    port: 55445
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: safwv07dawjncwsdc.kulime.space
+  -
     name: '🇭🇰 火箭丨香港丨三网直连丨3'
     type: trojan
     server: v1az03.alljie.space
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: v1az03.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨三网直连丨4'
+    type: trojan
+    server: hk08.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨三网直连丨5'
+    type: trojan
+    server: az05feiy.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: fy05dascefbb.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨三网直连丨6'
+    type: trojan
+    server: az06dcjhh.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az06kdhcbsja.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨三网直连丨7'
+    type: trojan
+    server: az01.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az01dacjdcndacc.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨三网直连丨9'
+    type: trojan
+    server: hk06.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk06.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨专线丨原生丨3x'
+    type: trojan
+    server: dmit.alljie.space
+    port: 20028
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk111.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨原生丨湖南-香港丨中继'
+    type: trojan
+    server: changsha01.alljie.space
+    port: 52017
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk10.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨微軟丨广州中继'
+    type: trojan
+    server: guang01.alljie.space
+    port: 32370
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇭🇰 火箭丨香港丨微软丨2Gbps'
+    type: trojan
+    server: az05.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az05dasjhcjbjsfc.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨微软丨Trojan丨移动中继'
+    type: trojan
+    server: guangzhouw.alljie.space
+    port: 52001
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az100.kulime.space
+  -
+    name: '🇨🇳 火箭丨香港丨微软丨上海-香港丨'
+    type: trojan
+    server: bgp.alljie.space
+    port: 52009
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az05dasjhcjbjsfc.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨徽港中继丨1'
+    type: trojan
+    server: huig01.alljie.space
+    port: 10025
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨徽港中继丨2'
+    type: trojan
+    server: huig02.alljie.space
+    port: 10030
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨徽港中继丨3'
+    type: trojan
+    server: huig03.alljie.space
+    port: 10027
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨徽港中继丨4'
+    type: trojan
+    server: huig04.alljie.space
+    port: 10028
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
+    type: trojan
+    server: huig03.alljie.space
+    port: 11151
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
+    type: trojan
+    server: huig03.alljie.space
+    port: 10029
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk06.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨深港中继2丨3x'
+    type: trojan
+    server: huig03.alljie.space
+    port: 12029
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 火箭丨香港丨深港中继丨3x'
+    type: trojan
+    server: huig03.alljie.space
+    port: 52016
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇭🇰 火箭丨香港丨移动专用丨万M光口'
+    type: trojan
+    server: hgc05.alljie.space
+    port: 8080
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hgc05.alljie.space
+  -
+    name: '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
+    type: trojan
+    server: malai01.alljie.space
+    port: 52036
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: my.allzhen.com
+  -
+    name: '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
+    type: trojan
+    server: hkazgang.yuncyo.xyz
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.kulime.space
+  -
+    name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨10'
+    type: trojan
+    server: zhi10.yuncyo.xyz
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
+    type: trojan
+    server: hkbj.alljie.space
+    port: 8081
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hkbj.alljie.space
+  -
+    name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨6 '
+    type: trojan
+    server: hgc3.yuncyo.xyz
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨7'
+    type: trojan
+    server: zhi6.yuncyo.xyz
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨8'
+    type: trojan
+    server: zhi8.yuncyo.xyz
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
+    type: trojan
+    server: zhi9.yuncyo.xyz
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az02vip3.kulime.space
+  -
+    name: '🇯🇵 白金丨IEPL丨东京丨软银'
+    type: trojan
+    server: yinghua03.yuncyo.xyz
+    port: 11172
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: rdqdacjcc.kulime.space
+  -
+    name: '🇯🇵 白金丨IEPL丨东京丨软银2'
+    type: trojan
+    server: ruany.yuncyo.xyz
+    port: 11173
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: rdqdacjcc.kulime.space
+  -
+    name: '🇹🇼 白金丨IEPL丨台湾'
+    type: trojan
+    server: tangguo.yuncyo.xyz
+    port: 52034
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: tai03fqi.kulime.space
+  -
+    name: '🇹🇼 白金丨IEPL丨台湾丨2'
+    type: trojan
+    server: fuzai02.alljie.space
+    port: 10001
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: zhanghua.kulime.space
+  -
+    name: '🇹🇼 白金丨IEPL丨台湾丨3'
+    type: trojan
+    server: v3bgptw.yuncyo.xyz
+    port: 52025
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: taiwjing.kulime.space
+  -
+    name: '🇸🇬 白金丨IEPL丨新加坡丨netflix'
+    type: trojan
+    server: fuzai7.yuncyo.xyz
+    port: 60010
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: xjp.allzhen.com
+  -
+    name: '🇯🇵 白金丨IEPL丨日本丨GMO'
+    type: trojan
+    server: iijfuzai.yuncyo.xyz
+    port: 32395
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: rdqdacjcc.kulime.space
+  -
+    name: '🇯🇵 白金丨IEPL丨日本丨櫻花'
+    type: trojan
+    server: djying.yuncyo.xyz
+    port: 20023
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: ysdwjhdofhua.kulime.space
+  -
+    name: '🇺🇲 白金丨IEPL丨美国丨1'
+    type: trojan
+    server: v3sm.yuncyo.xyz
+    port: 51018
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us03.allzhen.com
+  -
+    name: '🇺🇲 白金丨IEPL丨美国丨2'
+    type: trojan
+    server: changshaLE.kulime.space
+    port: 55015
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: dasfcadvsdklfjhjsd.kulime.space
+  -
+    name: '🇺🇲 白金丨IEPL丨美国丨3'
+    type: trojan
+    server: changus04.yuncyo.xyz
+    port: 4438
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: dasfcadvsdklfjhjsd.kulime.space
+  -
+    name: '🇬🇧 白金丨IEPL丨英国丨'
+    type: trojan
+    server: ying.yuncyo.xyz
+    port: 60011
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.kulime.space
+  -
+    name: '🇰🇷 白金丨IEPL丨韩国丨'
+    type: trojan
+    server: han.yuncyo.xyz
+    port: 11164
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hanguo1.kulime.space
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
+    type: trojan
+    server: v3hgc02.yuncyo.xyz
+    port: 52032
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hgc03.allzhen.com
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HGC丨2'
+    type: trojan
+    server: fuzai4.yuncyo.xyz
+    port: 52031
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
+    type: trojan
+    server: hk05lt.yuncyo.xyz
+    port: 11163
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk10.kulime.space
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
+    type: trojan
+    server: changshay.kulime.space
+    port: 11161
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: azduoxianarg.kulime.space
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HKT丨3'
+    type: trojan
+    server: fuzai5.yuncyo.xyz
+    port: 11157
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: adfcscjkadlkncacx.kulime.space
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HKT丨4'
+    type: trojan
+    server: fuzai6.yuncyo.xyz
+    port: 32369
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: az20qdjddjdae.kulime.space
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
+    type: trojan
+    server: azvip4.yuncyo.xyz
+    port: 11160
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: azvip4.allzhen.com
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HKT丨6'
+    type: trojan
+    server: v3az02.yuncyo.xyz
+    port: 32391
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
+    type: trojan
+    server: v3hgcshen.yuncyo.xyz
+    port: 50217
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: azvip4.allzhen.com
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨光口丨1'
+    type: trojan
+    server: bgp01.alljie.space
+    port: 52051
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hgc03.allzhen.com
+  -
+    name: '🇭🇰 白金丨IEPL丨香港丨光口丨2'
+    type: trojan
+    server: gkh.yuncyo.xyz
+    port: 50218
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇲🇾 白金丨IEPL丨马来西亚'
+    type: trojan
+    server: malai.yuncyo.xyz
+    port: 52033
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: my.allzhen.com
+  -
+    name: '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
+    type: trojan
+    server: guangzhouh.alljie.space
+    port: 52101
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk05.allzhen.com
+  -
+    name: '🇹🇼 白金丨台湾丨原生丨专线丨三网负载'
+    type: trojan
+    server: tw04.yuncyo.xyz
+    port: 11155
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: tai03fqi.kulime.space
+  -
+    name: '🇹🇼 白金丨台湾丨原生丨静态丨深台专线'
+    type: trojan
+    server: shentai01.alljie.space
+    port: 52015
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: taiwjing.kulime.space
+  -
+    name: '🇺🇲 白金丨美国丨CN2丨01'
+    type: trojan
+    server: azus05.alljie.space
+    port: 30000
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us05.allzhen.com
+  -
+    name: '🇺🇲 白金丨美国丨CN2丨2'
+    type: trojan
+    server: shaz01.yuncyo.xyz
+    port: 22008
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: us05.allzhen.com
 proxy-groups:
   -
     name: 🔰国外流量
@@ -48,8 +748,108 @@ proxy-groups:
     proxies:
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
+      - '🇮🇳 火箭丨印度丨孟买'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
+      - '🇹🇼 火箭丨台湾丨原生丨Trojan丨静态'
+      - '🇹🇼 火箭丨台湾丨原生丨三网直连'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨1'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中转'
+      - '🇹🇼 火箭丨台湾丨彰化丨600m'
+      - '🇩🇪 火箭丨德国丨3x'
+      - '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
+      - '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
+      - '🇨🇳 火箭丨日本丨上海-日本ntt丨中继'
+      - '🇨🇳 火箭丨日本丨原生丨上海-日本丨3x'
+      - '🇯🇵 火箭丨日本丨原生丨深日中继'
+      - '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
+      - '🇫🇷 火箭丨法国丨巴黎丨AWS'
+      - '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨03丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨沪美中继'
+      - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
+      - '🇺🇲 火箭丨美国丨直连'
+      - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨原生丨'
+      - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨03丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨04丨流媒体专用'
+      - '🇭🇰 火箭丨香港丨BGP中继丨05丨'
+      - '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP微软丨2x'
+      - '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
+      - '🇭🇰 火箭丨香港丨HKG丨原生丨移动优化丨'
+      - '🇭🇰 火箭丨香港丨HKT丨02丨原生丨直连'
+      - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
+      - '🇭🇰 火箭丨香港丨Trojan丨原生'
+      - '🇭🇰 火箭丨香港丨三网优化丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨1 '
+      - '🇭🇰 火箭丨香港丨三网直连丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨3'
+      - '🇭🇰 火箭丨香港丨三网直连丨4'
+      - '🇭🇰 火箭丨香港丨三网直连丨5'
+      - '🇭🇰 火箭丨香港丨三网直连丨6'
+      - '🇭🇰 火箭丨香港丨三网直连丨7'
+      - '🇭🇰 火箭丨香港丨三网直连丨9'
+      - '🇭🇰 火箭丨香港丨专线丨原生丨3x'
+      - '🇭🇰 火箭丨香港丨原生丨湖南-香港丨中继'
+      - '🇭🇰 火箭丨香港丨微軟丨广州中继'
+      - '🇭🇰 火箭丨香港丨微软丨2Gbps'
+      - '🇭🇰 火箭丨香港丨微软丨Trojan丨移动中继'
+      - '🇨🇳 火箭丨香港丨微软丨上海-香港丨'
+      - '🇭🇰 火箭丨香港丨徽港中继丨1'
+      - '🇭🇰 火箭丨香港丨徽港中继丨2'
+      - '🇭🇰 火箭丨香港丨徽港中继丨3'
+      - '🇭🇰 火箭丨香港丨徽港中继丨4'
+      - '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
+      - '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继2丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继丨3x'
+      - '🇭🇰 火箭丨香港丨移动专用丨万M光口'
+      - '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
+      - '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨10'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨6 '
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨7'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨8'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
+      - '🇯🇵 白金丨IEPL丨东京丨软银'
+      - '🇯🇵 白金丨IEPL丨东京丨软银2'
+      - '🇹🇼 白金丨IEPL丨台湾'
+      - '🇹🇼 白金丨IEPL丨台湾丨2'
+      - '🇹🇼 白金丨IEPL丨台湾丨3'
+      - '🇸🇬 白金丨IEPL丨新加坡丨netflix'
+      - '🇯🇵 白金丨IEPL丨日本丨GMO'
+      - '🇯🇵 白金丨IEPL丨日本丨櫻花'
+      - '🇺🇲 白金丨IEPL丨美国丨1'
+      - '🇺🇲 白金丨IEPL丨美国丨2'
+      - '🇺🇲 白金丨IEPL丨美国丨3'
+      - '🇬🇧 白金丨IEPL丨英国丨'
+      - '🇰🇷 白金丨IEPL丨韩国丨'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨3'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨4'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨6'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨2'
+      - '🇲🇾 白金丨IEPL丨马来西亚'
+      - '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
+      - '🇹🇼 白金丨台湾丨原生丨专线丨三网负载'
+      - '🇹🇼 白金丨台湾丨原生丨静态丨深台专线'
+      - '🇺🇲 白金丨美国丨CN2丨01'
+      - '🇺🇲 白金丨美国丨CN2丨2'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -64,8 +864,108 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
+      - '🇮🇳 火箭丨印度丨孟买'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
+      - '🇹🇼 火箭丨台湾丨原生丨Trojan丨静态'
+      - '🇹🇼 火箭丨台湾丨原生丨三网直连'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨1'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中转'
+      - '🇹🇼 火箭丨台湾丨彰化丨600m'
+      - '🇩🇪 火箭丨德国丨3x'
+      - '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
+      - '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
+      - '🇨🇳 火箭丨日本丨上海-日本ntt丨中继'
+      - '🇨🇳 火箭丨日本丨原生丨上海-日本丨3x'
+      - '🇯🇵 火箭丨日本丨原生丨深日中继'
+      - '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
+      - '🇫🇷 火箭丨法国丨巴黎丨AWS'
+      - '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨03丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨沪美中继'
+      - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
+      - '🇺🇲 火箭丨美国丨直连'
+      - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨原生丨'
+      - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨03丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨04丨流媒体专用'
+      - '🇭🇰 火箭丨香港丨BGP中继丨05丨'
+      - '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP微软丨2x'
+      - '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
+      - '🇭🇰 火箭丨香港丨HKG丨原生丨移动优化丨'
+      - '🇭🇰 火箭丨香港丨HKT丨02丨原生丨直连'
+      - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
+      - '🇭🇰 火箭丨香港丨Trojan丨原生'
+      - '🇭🇰 火箭丨香港丨三网优化丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨1 '
+      - '🇭🇰 火箭丨香港丨三网直连丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨3'
+      - '🇭🇰 火箭丨香港丨三网直连丨4'
+      - '🇭🇰 火箭丨香港丨三网直连丨5'
+      - '🇭🇰 火箭丨香港丨三网直连丨6'
+      - '🇭🇰 火箭丨香港丨三网直连丨7'
+      - '🇭🇰 火箭丨香港丨三网直连丨9'
+      - '🇭🇰 火箭丨香港丨专线丨原生丨3x'
+      - '🇭🇰 火箭丨香港丨原生丨湖南-香港丨中继'
+      - '🇭🇰 火箭丨香港丨微軟丨广州中继'
+      - '🇭🇰 火箭丨香港丨微软丨2Gbps'
+      - '🇭🇰 火箭丨香港丨微软丨Trojan丨移动中继'
+      - '🇨🇳 火箭丨香港丨微软丨上海-香港丨'
+      - '🇭🇰 火箭丨香港丨徽港中继丨1'
+      - '🇭🇰 火箭丨香港丨徽港中继丨2'
+      - '🇭🇰 火箭丨香港丨徽港中继丨3'
+      - '🇭🇰 火箭丨香港丨徽港中继丨4'
+      - '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
+      - '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继2丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继丨3x'
+      - '🇭🇰 火箭丨香港丨移动专用丨万M光口'
+      - '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
+      - '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨10'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨6 '
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨7'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨8'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
+      - '🇯🇵 白金丨IEPL丨东京丨软银'
+      - '🇯🇵 白金丨IEPL丨东京丨软银2'
+      - '🇹🇼 白金丨IEPL丨台湾'
+      - '🇹🇼 白金丨IEPL丨台湾丨2'
+      - '🇹🇼 白金丨IEPL丨台湾丨3'
+      - '🇸🇬 白金丨IEPL丨新加坡丨netflix'
+      - '🇯🇵 白金丨IEPL丨日本丨GMO'
+      - '🇯🇵 白金丨IEPL丨日本丨櫻花'
+      - '🇺🇲 白金丨IEPL丨美国丨1'
+      - '🇺🇲 白金丨IEPL丨美国丨2'
+      - '🇺🇲 白金丨IEPL丨美国丨3'
+      - '🇬🇧 白金丨IEPL丨英国丨'
+      - '🇰🇷 白金丨IEPL丨韩国丨'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨3'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨4'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨6'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨2'
+      - '🇲🇾 白金丨IEPL丨马来西亚'
+      - '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
+      - '🇹🇼 白金丨台湾丨原生丨专线丨三网负载'
+      - '🇹🇼 白金丨台湾丨原生丨静态丨深台专线'
+      - '🇺🇲 白金丨美国丨CN2丨01'
+      - '🇺🇲 白金丨美国丨CN2丨2'
   -
     name: 🎬Youtube
     type: select
@@ -73,8 +973,108 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
+      - '🇮🇳 火箭丨印度丨孟买'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
+      - '🇹🇼 火箭丨台湾丨原生丨Trojan丨静态'
+      - '🇹🇼 火箭丨台湾丨原生丨三网直连'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨1'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中转'
+      - '🇹🇼 火箭丨台湾丨彰化丨600m'
+      - '🇩🇪 火箭丨德国丨3x'
+      - '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
+      - '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
+      - '🇨🇳 火箭丨日本丨上海-日本ntt丨中继'
+      - '🇨🇳 火箭丨日本丨原生丨上海-日本丨3x'
+      - '🇯🇵 火箭丨日本丨原生丨深日中继'
+      - '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
+      - '🇫🇷 火箭丨法国丨巴黎丨AWS'
+      - '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨03丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨沪美中继'
+      - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
+      - '🇺🇲 火箭丨美国丨直连'
+      - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨原生丨'
+      - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨03丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨04丨流媒体专用'
+      - '🇭🇰 火箭丨香港丨BGP中继丨05丨'
+      - '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP微软丨2x'
+      - '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
+      - '🇭🇰 火箭丨香港丨HKG丨原生丨移动优化丨'
+      - '🇭🇰 火箭丨香港丨HKT丨02丨原生丨直连'
+      - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
+      - '🇭🇰 火箭丨香港丨Trojan丨原生'
+      - '🇭🇰 火箭丨香港丨三网优化丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨1 '
+      - '🇭🇰 火箭丨香港丨三网直连丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨3'
+      - '🇭🇰 火箭丨香港丨三网直连丨4'
+      - '🇭🇰 火箭丨香港丨三网直连丨5'
+      - '🇭🇰 火箭丨香港丨三网直连丨6'
+      - '🇭🇰 火箭丨香港丨三网直连丨7'
+      - '🇭🇰 火箭丨香港丨三网直连丨9'
+      - '🇭🇰 火箭丨香港丨专线丨原生丨3x'
+      - '🇭🇰 火箭丨香港丨原生丨湖南-香港丨中继'
+      - '🇭🇰 火箭丨香港丨微軟丨广州中继'
+      - '🇭🇰 火箭丨香港丨微软丨2Gbps'
+      - '🇭🇰 火箭丨香港丨微软丨Trojan丨移动中继'
+      - '🇨🇳 火箭丨香港丨微软丨上海-香港丨'
+      - '🇭🇰 火箭丨香港丨徽港中继丨1'
+      - '🇭🇰 火箭丨香港丨徽港中继丨2'
+      - '🇭🇰 火箭丨香港丨徽港中继丨3'
+      - '🇭🇰 火箭丨香港丨徽港中继丨4'
+      - '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
+      - '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继2丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继丨3x'
+      - '🇭🇰 火箭丨香港丨移动专用丨万M光口'
+      - '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
+      - '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨10'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨6 '
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨7'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨8'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
+      - '🇯🇵 白金丨IEPL丨东京丨软银'
+      - '🇯🇵 白金丨IEPL丨东京丨软银2'
+      - '🇹🇼 白金丨IEPL丨台湾'
+      - '🇹🇼 白金丨IEPL丨台湾丨2'
+      - '🇹🇼 白金丨IEPL丨台湾丨3'
+      - '🇸🇬 白金丨IEPL丨新加坡丨netflix'
+      - '🇯🇵 白金丨IEPL丨日本丨GMO'
+      - '🇯🇵 白金丨IEPL丨日本丨櫻花'
+      - '🇺🇲 白金丨IEPL丨美国丨1'
+      - '🇺🇲 白金丨IEPL丨美国丨2'
+      - '🇺🇲 白金丨IEPL丨美国丨3'
+      - '🇬🇧 白金丨IEPL丨英国丨'
+      - '🇰🇷 白金丨IEPL丨韩国丨'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨3'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨4'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨6'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨2'
+      - '🇲🇾 白金丨IEPL丨马来西亚'
+      - '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
+      - '🇹🇼 白金丨台湾丨原生丨专线丨三网负载'
+      - '🇹🇼 白金丨台湾丨原生丨静态丨深台专线'
+      - '🇺🇲 白金丨美国丨CN2丨01'
+      - '🇺🇲 白金丨美国丨CN2丨2'
   -
     name: 🎬Netflix
     type: select
@@ -82,8 +1082,108 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
+      - '🇮🇳 火箭丨印度丨孟买'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
+      - '🇹🇼 火箭丨台湾丨原生丨Trojan丨静态'
+      - '🇹🇼 火箭丨台湾丨原生丨三网直连'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨1'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中转'
+      - '🇹🇼 火箭丨台湾丨彰化丨600m'
+      - '🇩🇪 火箭丨德国丨3x'
+      - '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
+      - '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
+      - '🇨🇳 火箭丨日本丨上海-日本ntt丨中继'
+      - '🇨🇳 火箭丨日本丨原生丨上海-日本丨3x'
+      - '🇯🇵 火箭丨日本丨原生丨深日中继'
+      - '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
+      - '🇫🇷 火箭丨法国丨巴黎丨AWS'
+      - '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨03丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨沪美中继'
+      - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
+      - '🇺🇲 火箭丨美国丨直连'
+      - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨原生丨'
+      - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨03丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨04丨流媒体专用'
+      - '🇭🇰 火箭丨香港丨BGP中继丨05丨'
+      - '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP微软丨2x'
+      - '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
+      - '🇭🇰 火箭丨香港丨HKG丨原生丨移动优化丨'
+      - '🇭🇰 火箭丨香港丨HKT丨02丨原生丨直连'
+      - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
+      - '🇭🇰 火箭丨香港丨Trojan丨原生'
+      - '🇭🇰 火箭丨香港丨三网优化丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨1 '
+      - '🇭🇰 火箭丨香港丨三网直连丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨3'
+      - '🇭🇰 火箭丨香港丨三网直连丨4'
+      - '🇭🇰 火箭丨香港丨三网直连丨5'
+      - '🇭🇰 火箭丨香港丨三网直连丨6'
+      - '🇭🇰 火箭丨香港丨三网直连丨7'
+      - '🇭🇰 火箭丨香港丨三网直连丨9'
+      - '🇭🇰 火箭丨香港丨专线丨原生丨3x'
+      - '🇭🇰 火箭丨香港丨原生丨湖南-香港丨中继'
+      - '🇭🇰 火箭丨香港丨微軟丨广州中继'
+      - '🇭🇰 火箭丨香港丨微软丨2Gbps'
+      - '🇭🇰 火箭丨香港丨微软丨Trojan丨移动中继'
+      - '🇨🇳 火箭丨香港丨微软丨上海-香港丨'
+      - '🇭🇰 火箭丨香港丨徽港中继丨1'
+      - '🇭🇰 火箭丨香港丨徽港中继丨2'
+      - '🇭🇰 火箭丨香港丨徽港中继丨3'
+      - '🇭🇰 火箭丨香港丨徽港中继丨4'
+      - '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
+      - '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继2丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继丨3x'
+      - '🇭🇰 火箭丨香港丨移动专用丨万M光口'
+      - '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
+      - '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨10'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨6 '
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨7'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨8'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
+      - '🇯🇵 白金丨IEPL丨东京丨软银'
+      - '🇯🇵 白金丨IEPL丨东京丨软银2'
+      - '🇹🇼 白金丨IEPL丨台湾'
+      - '🇹🇼 白金丨IEPL丨台湾丨2'
+      - '🇹🇼 白金丨IEPL丨台湾丨3'
+      - '🇸🇬 白金丨IEPL丨新加坡丨netflix'
+      - '🇯🇵 白金丨IEPL丨日本丨GMO'
+      - '🇯🇵 白金丨IEPL丨日本丨櫻花'
+      - '🇺🇲 白金丨IEPL丨美国丨1'
+      - '🇺🇲 白金丨IEPL丨美国丨2'
+      - '🇺🇲 白金丨IEPL丨美国丨3'
+      - '🇬🇧 白金丨IEPL丨英国丨'
+      - '🇰🇷 白金丨IEPL丨韩国丨'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨3'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨4'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨6'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨2'
+      - '🇲🇾 白金丨IEPL丨马来西亚'
+      - '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
+      - '🇹🇼 白金丨台湾丨原生丨专线丨三网负载'
+      - '🇹🇼 白金丨台湾丨原生丨静态丨深台专线'
+      - '🇺🇲 白金丨美国丨CN2丨01'
+      - '🇺🇲 白金丨美国丨CN2丨2'
   -
     name: 🎬哔哩哔哩
     type: select
@@ -91,8 +1191,108 @@ proxy-groups:
       - 🚀直接连接
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
+      - '🇮🇳 火箭丨印度丨孟买'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
+      - '🇹🇼 火箭丨台湾丨原生丨Trojan丨静态'
+      - '🇹🇼 火箭丨台湾丨原生丨三网直连'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨1'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中转'
+      - '🇹🇼 火箭丨台湾丨彰化丨600m'
+      - '🇩🇪 火箭丨德国丨3x'
+      - '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
+      - '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
+      - '🇨🇳 火箭丨日本丨上海-日本ntt丨中继'
+      - '🇨🇳 火箭丨日本丨原生丨上海-日本丨3x'
+      - '🇯🇵 火箭丨日本丨原生丨深日中继'
+      - '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
+      - '🇫🇷 火箭丨法国丨巴黎丨AWS'
+      - '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨03丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨沪美中继'
+      - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
+      - '🇺🇲 火箭丨美国丨直连'
+      - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨原生丨'
+      - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨03丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨04丨流媒体专用'
+      - '🇭🇰 火箭丨香港丨BGP中继丨05丨'
+      - '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP微软丨2x'
+      - '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
+      - '🇭🇰 火箭丨香港丨HKG丨原生丨移动优化丨'
+      - '🇭🇰 火箭丨香港丨HKT丨02丨原生丨直连'
+      - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
+      - '🇭🇰 火箭丨香港丨Trojan丨原生'
+      - '🇭🇰 火箭丨香港丨三网优化丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨1 '
+      - '🇭🇰 火箭丨香港丨三网直连丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨3'
+      - '🇭🇰 火箭丨香港丨三网直连丨4'
+      - '🇭🇰 火箭丨香港丨三网直连丨5'
+      - '🇭🇰 火箭丨香港丨三网直连丨6'
+      - '🇭🇰 火箭丨香港丨三网直连丨7'
+      - '🇭🇰 火箭丨香港丨三网直连丨9'
+      - '🇭🇰 火箭丨香港丨专线丨原生丨3x'
+      - '🇭🇰 火箭丨香港丨原生丨湖南-香港丨中继'
+      - '🇭🇰 火箭丨香港丨微軟丨广州中继'
+      - '🇭🇰 火箭丨香港丨微软丨2Gbps'
+      - '🇭🇰 火箭丨香港丨微软丨Trojan丨移动中继'
+      - '🇨🇳 火箭丨香港丨微软丨上海-香港丨'
+      - '🇭🇰 火箭丨香港丨徽港中继丨1'
+      - '🇭🇰 火箭丨香港丨徽港中继丨2'
+      - '🇭🇰 火箭丨香港丨徽港中继丨3'
+      - '🇭🇰 火箭丨香港丨徽港中继丨4'
+      - '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
+      - '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继2丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继丨3x'
+      - '🇭🇰 火箭丨香港丨移动专用丨万M光口'
+      - '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
+      - '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨10'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨6 '
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨7'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨8'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
+      - '🇯🇵 白金丨IEPL丨东京丨软银'
+      - '🇯🇵 白金丨IEPL丨东京丨软银2'
+      - '🇹🇼 白金丨IEPL丨台湾'
+      - '🇹🇼 白金丨IEPL丨台湾丨2'
+      - '🇹🇼 白金丨IEPL丨台湾丨3'
+      - '🇸🇬 白金丨IEPL丨新加坡丨netflix'
+      - '🇯🇵 白金丨IEPL丨日本丨GMO'
+      - '🇯🇵 白金丨IEPL丨日本丨櫻花'
+      - '🇺🇲 白金丨IEPL丨美国丨1'
+      - '🇺🇲 白金丨IEPL丨美国丨2'
+      - '🇺🇲 白金丨IEPL丨美国丨3'
+      - '🇬🇧 白金丨IEPL丨英国丨'
+      - '🇰🇷 白金丨IEPL丨韩国丨'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨3'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨4'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨6'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨2'
+      - '🇲🇾 白金丨IEPL丨马来西亚'
+      - '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
+      - '🇹🇼 白金丨台湾丨原生丨专线丨三网负载'
+      - '🇹🇼 白金丨台湾丨原生丨静态丨深台专线'
+      - '🇺🇲 白金丨美国丨CN2丨01'
+      - '🇺🇲 白金丨美国丨CN2丨2'
   -
     name: 🎬国外媒体
     type: select
@@ -100,8 +1300,108 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
+      - '🇮🇳 火箭丨印度丨孟买'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
+      - '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
+      - '🇹🇼 火箭丨台湾丨原生丨Trojan丨静态'
+      - '🇹🇼 火箭丨台湾丨原生丨三网直连'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨1'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
+      - '🇹🇼 火箭丨台湾丨原生丨深台中转'
+      - '🇹🇼 火箭丨台湾丨彰化丨600m'
+      - '🇩🇪 火箭丨德国丨3x'
+      - '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
+      - '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
+      - '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
+      - '🇨🇳 火箭丨日本丨上海-日本ntt丨中继'
+      - '🇨🇳 火箭丨日本丨原生丨上海-日本丨3x'
+      - '🇯🇵 火箭丨日本丨原生丨深日中继'
+      - '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
+      - '🇫🇷 火箭丨法国丨巴黎丨AWS'
+      - '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨03丨原生'
+      - '🇺🇲 火箭丨美国丨微软丨沪美中继'
+      - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
+      - '🇺🇲 火箭丨美国丨直连'
+      - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨原生丨'
+      - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨03丨HKT丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP中继丨04丨流媒体专用'
+      - '🇭🇰 火箭丨香港丨BGP中继丨05丨'
+      - '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
+      - '🇭🇰 火箭丨香港丨BGP微软丨2x'
+      - '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
+      - '🇭🇰 火箭丨香港丨HKG丨原生丨移动优化丨'
+      - '🇭🇰 火箭丨香港丨HKT丨02丨原生丨直连'
+      - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
+      - '🇭🇰 火箭丨香港丨Trojan丨原生'
+      - '🇭🇰 火箭丨香港丨三网优化丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨1 '
+      - '🇭🇰 火箭丨香港丨三网直连丨2'
       - '🇭🇰 火箭丨香港丨三网直连丨3'
+      - '🇭🇰 火箭丨香港丨三网直连丨4'
+      - '🇭🇰 火箭丨香港丨三网直连丨5'
+      - '🇭🇰 火箭丨香港丨三网直连丨6'
+      - '🇭🇰 火箭丨香港丨三网直连丨7'
+      - '🇭🇰 火箭丨香港丨三网直连丨9'
+      - '🇭🇰 火箭丨香港丨专线丨原生丨3x'
+      - '🇭🇰 火箭丨香港丨原生丨湖南-香港丨中继'
+      - '🇭🇰 火箭丨香港丨微軟丨广州中继'
+      - '🇭🇰 火箭丨香港丨微软丨2Gbps'
+      - '🇭🇰 火箭丨香港丨微软丨Trojan丨移动中继'
+      - '🇨🇳 火箭丨香港丨微软丨上海-香港丨'
+      - '🇭🇰 火箭丨香港丨徽港中继丨1'
+      - '🇭🇰 火箭丨香港丨徽港中继丨2'
+      - '🇭🇰 火箭丨香港丨徽港中继丨3'
+      - '🇭🇰 火箭丨香港丨徽港中继丨4'
+      - '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
+      - '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继2丨3x'
+      - '🇭🇰 火箭丨香港丨深港中继丨3x'
+      - '🇭🇰 火箭丨香港丨移动专用丨万M光口'
+      - '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
+      - '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨10'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨6 '
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨7'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨8'
+      - '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
+      - '🇯🇵 白金丨IEPL丨东京丨软银'
+      - '🇯🇵 白金丨IEPL丨东京丨软银2'
+      - '🇹🇼 白金丨IEPL丨台湾'
+      - '🇹🇼 白金丨IEPL丨台湾丨2'
+      - '🇹🇼 白金丨IEPL丨台湾丨3'
+      - '🇸🇬 白金丨IEPL丨新加坡丨netflix'
+      - '🇯🇵 白金丨IEPL丨日本丨GMO'
+      - '🇯🇵 白金丨IEPL丨日本丨櫻花'
+      - '🇺🇲 白金丨IEPL丨美国丨1'
+      - '🇺🇲 白金丨IEPL丨美国丨2'
+      - '🇺🇲 白金丨IEPL丨美国丨3'
+      - '🇬🇧 白金丨IEPL丨英国丨'
+      - '🇰🇷 白金丨IEPL丨韩国丨'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HGC丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨3'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨4'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨6'
+      - '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨1'
+      - '🇭🇰 白金丨IEPL丨香港丨光口丨2'
+      - '🇲🇾 白金丨IEPL丨马来西亚'
+      - '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
+      - '🇹🇼 白金丨台湾丨原生丨专线丨三网负载'
+      - '🇹🇼 白金丨台湾丨原生丨静态丨深台专线'
+      - '🇺🇲 白金丨美国丨CN2丨01'
+      - '🇺🇲 白金丨美国丨CN2丨2'
   -
     name: 🍎苹果服务
     type: select
