@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://sublink.naiko.org/link/vzy9hEQkgTd9BJ2B?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-01-17 16:20:23
+## 上次更新于：2025-01-18 09:00:01
 #---------------------------------------------------#
 
 port: 7890
@@ -34,7 +34,7 @@ proxies:
   -
     name: '台湾 TW IEPL 01'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15501
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -46,7 +46,7 @@ proxies:
   -
     name: '台湾 TW IEPL 02'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15502
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -58,7 +58,7 @@ proxies:
   -
     name: '台湾 TW IEPL 03'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15503
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -70,7 +70,7 @@ proxies:
   -
     name: '台湾 TW IEPL 04'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15504
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -82,7 +82,7 @@ proxies:
   -
     name: '台湾 TW IEPL 05'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15505
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -94,7 +94,7 @@ proxies:
   -
     name: '台湾 TW IEPL 06'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15506
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -106,7 +106,7 @@ proxies:
   -
     name: '台湾 TW IEPL 07'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15507
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -118,7 +118,7 @@ proxies:
   -
     name: '台湾 TW IEPL 08'
     type: ssr
-    server: dajbxtw.naikonode1.top
+    server: dajbxtw.naikonode2.top
     port: 15508
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -130,7 +130,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 01'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15401
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -142,7 +142,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 02'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15402
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -154,7 +154,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 03'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15403
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -166,7 +166,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 04'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15404
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -178,7 +178,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 05'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15405
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -190,7 +190,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 06'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15406
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -202,7 +202,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 07'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15407
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -214,7 +214,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 08'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15408
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -226,7 +226,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 09'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15409
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -238,7 +238,7 @@ proxies:
   -
     name: '新加坡 SG IEPL 10'
     type: ssr
-    server: dajbxsg.naikonode1.top
+    server: dajbxsg.naikonode2.top
     port: 15410
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -250,7 +250,7 @@ proxies:
   -
     name: '日本 JP IEPL 01'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15201
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -262,7 +262,7 @@ proxies:
   -
     name: '日本 JP IEPL 02'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15202
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -274,7 +274,7 @@ proxies:
   -
     name: '日本 JP IEPL 03'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15203
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -286,7 +286,7 @@ proxies:
   -
     name: '日本 JP IEPL 04'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15204
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -298,7 +298,7 @@ proxies:
   -
     name: '日本 JP IEPL 05'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15205
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -310,7 +310,7 @@ proxies:
   -
     name: '日本 JP IEPL 06'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15206
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -322,7 +322,7 @@ proxies:
   -
     name: '日本 JP IEPL 07'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15207
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -334,7 +334,7 @@ proxies:
   -
     name: '日本 JP IEPL 08'
     type: ssr
-    server: dajbxjp.naikonode1.top
+    server: dajbxjp.naikonode2.top
     port: 15208
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -346,7 +346,7 @@ proxies:
   -
     name: '美国 US IEPL 01'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15101
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -358,7 +358,7 @@ proxies:
   -
     name: '美国 US IEPL 02'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15102
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -370,7 +370,7 @@ proxies:
   -
     name: '美国 US IEPL 03'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15103
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -382,7 +382,7 @@ proxies:
   -
     name: '美国 US IEPL 04'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15104
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -394,7 +394,7 @@ proxies:
   -
     name: '美国 US IEPL 05'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15105
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -406,7 +406,7 @@ proxies:
   -
     name: '美国 US IEPL 06'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15106
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -418,7 +418,7 @@ proxies:
   -
     name: '美国 US IEPL 07'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15107
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -430,7 +430,7 @@ proxies:
   -
     name: '美国 US IEPL 08'
     type: ssr
-    server: dajbxus.naikonode1.top
+    server: dajbxus.naikonode2.top
     port: 15108
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -442,7 +442,7 @@ proxies:
   -
     name: '香港 HK IEPL 01'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15001
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -454,7 +454,7 @@ proxies:
   -
     name: '香港 HK IEPL 02'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15002
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -466,7 +466,7 @@ proxies:
   -
     name: '香港 HK IEPL 03'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15003
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -478,7 +478,7 @@ proxies:
   -
     name: '香港 HK IEPL 04'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15004
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -490,7 +490,7 @@ proxies:
   -
     name: '香港 HK IEPL 05'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15005
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -502,7 +502,7 @@ proxies:
   -
     name: '香港 HK IEPL 06'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15006
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -514,7 +514,7 @@ proxies:
   -
     name: '香港 HK IEPL 07'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15007
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -526,7 +526,7 @@ proxies:
   -
     name: '香港 HK IEPL 08'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15008
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -538,7 +538,7 @@ proxies:
   -
     name: '香港 HK IEPL 09'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15009
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -550,7 +550,7 @@ proxies:
   -
     name: '香港 HK IEPL 10'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15010
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -562,7 +562,7 @@ proxies:
   -
     name: '香港 HK IEPL 11'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15011
     cipher: chacha20-ietf
     password: NaikoCloud
@@ -574,7 +574,7 @@ proxies:
   -
     name: '香港 HK IEPL 12'
     type: ssr
-    server: dajbxhk.naikonode1.top
+    server: dajbxhk.naikonode2.top
     port: 15012
     cipher: chacha20-ietf
     password: NaikoCloud
