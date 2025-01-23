@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://ap.dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-01-22 09:00:03
+## 上次更新于：2025-01-23 09:00:03
 #---------------------------------------------------#
 
 port: 7890
@@ -443,14 +443,14 @@ proxies:
   -
     name: '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
     type: trojan
-    server: huig03.alljie.space
+    server: v1hugang4.alljie.space
     port: 11151
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: hk05.allzhen.com
   -
     name: '🇭🇰 火箭丨香港丨沪港中继丨5 丨3x'
     type: trojan
-    server: huig03.alljie.space
+    server: v1hugang5.alljie.space
     port: 10029
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: hk06.kulime.space
@@ -464,7 +464,7 @@ proxies:
   -
     name: '🇭🇰 火箭丨香港丨深港中继丨3x'
     type: trojan
-    server: huig03.alljie.space
+    server: huig06.alljie.space
     port: 52016
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: hk05.allzhen.com
