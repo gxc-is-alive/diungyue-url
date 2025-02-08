@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://sublink.naiko.org/link/vzy9hEQkgTd9BJ2B?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-02-07 09:00:01
+## 上次更新于：2025-02-08 09:00:01
 #---------------------------------------------------#
 
 port: 7890
@@ -559,30 +559,6 @@ proxies:
     obfs: plain
     obfs-param: 0d32e39587.microsoft.com
     udp: true
-  -
-    name: '香港 HK IEPL 11'
-    type: ssr
-    server: dajbxhk.naikonode2.top
-    port: 15011
-    cipher: chacha20-ietf
-    password: NaikoCloud
-    protocol: auth_aes128_md5
-    protocol-param: '39587:T9zFZU2umYzi1Lmq'
-    obfs: plain
-    obfs-param: 0d32e39587.microsoft.com
-    udp: true
-  -
-    name: '香港 HK IEPL 12'
-    type: ssr
-    server: dajbxhk.naikonode2.top
-    port: 15012
-    cipher: chacha20-ietf
-    password: NaikoCloud
-    protocol: auth_aes128_md5
-    protocol-param: '39587:T9zFZU2umYzi1Lmq'
-    obfs: plain
-    obfs-param: 0d32e39587.microsoft.com
-    udp: true
 proxy-groups:
   -
     name: '✈️ 手动选择'
@@ -632,8 +608,6 @@ proxy-groups:
       - '香港 HK IEPL 08'
       - '香港 HK IEPL 09'
       - '香港 HK IEPL 10'
-      - '香港 HK IEPL 11'
-      - '香港 HK IEPL 12'
   -
     name: '🌀 负载均衡'
     type: select
@@ -812,8 +786,6 @@ proxy-groups:
       - '香港 HK IEPL 08'
       - '香港 HK IEPL 09'
       - '香港 HK IEPL 10'
-      - '香港 HK IEPL 11'
-      - '香港 HK IEPL 12'
     url: 'http://www.gstatic.com/generate_204'
     interval: '600'
   -
