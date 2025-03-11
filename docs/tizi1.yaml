@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://ap.dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-02-13 09:00:03
+## 上次更新于：2025-03-11 11:09:16
 #---------------------------------------------------#
 
 port: 7890
@@ -27,6 +27,20 @@ proxies:
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: tai001.kulime.space
+  -
+    name: '🇭🇰 基础线路丨香港丨三网直连丨1 '
+    type: trojan
+    server: hk04.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hk04.kulime.space
+  -
+    name: '🇭🇰 基础线路丨香港丨三网直连丨3'
+    type: trojan
+    server: v1az03.alljie.space
+    port: 443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: v1az03.kulime.space
   -
     name: '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
     type: trojan
@@ -115,23 +129,23 @@ proxies:
     name: '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
     type: trojan
     server: xinjp.alljie.space
-    port: 10018
+    port: 52160
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: xjp.allzhen.com
+    sni: sghuo1.kulime.space
   -
     name: '🇸🇬 火箭丨新加坡丨湖南-新加坡丨netflix'
     type: trojan
     server: hunan.alljie.space
-    port: 10019
+    port: 20151
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: xjp.allzhen.com
+    sni: sghuo2.kulime.space
   -
     name: '🇯🇵 火箭丨日本IIJ丨沪日中继02丨原生'
     type: trojan
-    server: jp05.alljie.space
-    port: 52021
+    server: jp04.alljie.space
+    port: 53621
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: yinghua02.allzhen.com
+    sni: rbhuo4.kulime.space
   -
     name: '🇯🇵 火箭丨日本IIJ丨沪日中继丨原生'
     type: trojan
@@ -164,9 +178,9 @@ proxies:
     name: '🇯🇵 火箭丨日本丨湖南-大阪丨中继'
     type: trojan
     server: azjp.alljie.space
-    port: 52040
+    port: 51130
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: yinghua02.allzhen.com
+    sni: rbhuo5.kulime.space
   -
     name: '🇫🇷 火箭丨法国丨巴黎丨AWS'
     type: trojan
@@ -178,9 +192,9 @@ proxies:
     name: '🇺🇲 火箭丨美国丨BGP中继丨01丨原生'
     type: trojan
     server: usz.alljie.space
-    port: 32392
+    port: 32371
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us03.allzhen.com
+    sni: meihuo2.kulime.space
   -
     name: '🇺🇲 火箭丨美国丨微软丨03丨原生'
     type: trojan
@@ -192,9 +206,9 @@ proxies:
     name: '🇺🇲 火箭丨美国丨微软丨沪美中继'
     type: trojan
     server: bgp1.alljie.space
-    port: 52007
+    port: 52407
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us03.allzhen.com
+    sni: meihuo3.kulime.space
   -
     name: '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
     type: trojan
@@ -208,7 +222,7 @@ proxies:
     server: us02.alljie.space
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us03.kulime.space
+    sni: meihuo1.kulime.space
   -
     name: '🇬🇧 火箭丨英国丨伦敦丨AWS'
     type: trojan
@@ -217,12 +231,19 @@ proxies:
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: hk05.kulime.space
   -
+    name: '🇰🇷 火箭丨韩国丨中继丨ipel'
+    type: trojan
+    server: huhanzji.alljie.space
+    port: 51443
+    password: 895e337a-7141-31f2-940c-a831e43b5048
+    sni: hanhan3.kulime.space
+  -
     name: '🇰🇷 火箭丨韩国丨原生丨'
     type: trojan
-    server: huhan01.alljie.space
+    server: hanhan1.alljie.space
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hanguo1.kulime.space
+    sni: hanhan1.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
     type: trojan
@@ -275,7 +296,7 @@ proxies:
   -
     name: '🇭🇰 火箭丨香港丨HGC丨原生丨移动中继'
     type: trojan
-    server: guangzhou.alljie.space
+    server: guanghcc.alljie.space
     port: 52100
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: hk05.allzhen.com
@@ -315,26 +336,12 @@ proxies:
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: hk111.kulime.space
   -
-    name: '🇭🇰 火箭丨香港丨三网直连丨1 '
-    type: trojan
-    server: hk04.alljie.space
-    port: 443
-    password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk04.kulime.space
-  -
     name: '🇭🇰 火箭丨香港丨三网直连丨2'
     type: trojan
     server: hk07.alljie.space
     port: 55445
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: safwv07dawjncwsdc.kulime.space
-  -
-    name: '🇭🇰 火箭丨香港丨三网直连丨3'
-    type: trojan
-    server: v1az03.alljie.space
-    port: 443
-    password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: v1az03.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨三网直连丨4'
     type: trojan
@@ -537,14 +544,14 @@ proxies:
     server: yinghua03.yuncyo.xyz
     port: 11172
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: rdqdacjcc.kulime.space
+    sni: rbhuo1.kulime.space
   -
     name: '🇯🇵 白金丨IEPL丨东京丨软银2'
     type: trojan
     server: ruany.yuncyo.xyz
     port: 11173
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: rdqdacjcc.kulime.space
+    sni: rbhuo2.kulime.space
   -
     name: '🇹🇼 白金丨IEPL丨台湾'
     type: trojan
@@ -556,7 +563,7 @@ proxies:
     name: '🇹🇼 白金丨IEPL丨台湾丨2'
     type: trojan
     server: fuzai02.alljie.space
-    port: 10001
+    port: 20001
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: zhanghua.kulime.space
   -
@@ -570,16 +577,16 @@ proxies:
     name: '🇸🇬 白金丨IEPL丨新加坡丨netflix'
     type: trojan
     server: fuzai7.yuncyo.xyz
-    port: 60010
+    port: 20152
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: xjp.allzhen.com
+    sni: sghuo3.kulime.space
   -
     name: '🇯🇵 白金丨IEPL丨日本丨GMO'
     type: trojan
     server: iijfuzai.yuncyo.xyz
     port: 32395
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: rdqdacjcc.kulime.space
+    sni: rbhuo3.kulime.space
   -
     name: '🇯🇵 白金丨IEPL丨日本丨櫻花'
     type: trojan
@@ -621,7 +628,7 @@ proxies:
     server: han.yuncyo.xyz
     port: 11164
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hanguo1.kulime.space
+    sni: hanhan2.kulime.space
   -
     name: '🇭🇰 白金丨IEPL丨香港丨HGC丨1'
     type: trojan
@@ -748,6 +755,8 @@ proxy-groups:
     proxies:
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇭🇰 基础线路丨香港丨三网直连丨1 '
+      - '🇭🇰 基础线路丨香港丨三网直连丨3'
       - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
       - '🇮🇳 火箭丨印度丨孟买'
       - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
@@ -775,6 +784,7 @@ proxy-groups:
       - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
       - '🇺🇲 火箭丨美国丨直连'
       - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨中继丨ipel'
       - '🇰🇷 火箭丨韩国丨原生丨'
       - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
       - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
@@ -789,9 +799,7 @@ proxy-groups:
       - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
       - '🇭🇰 火箭丨香港丨Trojan丨原生'
       - '🇭🇰 火箭丨香港丨三网优化丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨1 '
       - '🇭🇰 火箭丨香港丨三网直连丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨3'
       - '🇭🇰 火箭丨香港丨三网直连丨4'
       - '🇭🇰 火箭丨香港丨三网直连丨5'
       - '🇭🇰 火箭丨香港丨三网直连丨6'
@@ -864,6 +872,8 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇭🇰 基础线路丨香港丨三网直连丨1 '
+      - '🇭🇰 基础线路丨香港丨三网直连丨3'
       - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
       - '🇮🇳 火箭丨印度丨孟买'
       - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
@@ -891,6 +901,7 @@ proxy-groups:
       - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
       - '🇺🇲 火箭丨美国丨直连'
       - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨中继丨ipel'
       - '🇰🇷 火箭丨韩国丨原生丨'
       - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
       - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
@@ -905,9 +916,7 @@ proxy-groups:
       - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
       - '🇭🇰 火箭丨香港丨Trojan丨原生'
       - '🇭🇰 火箭丨香港丨三网优化丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨1 '
       - '🇭🇰 火箭丨香港丨三网直连丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨3'
       - '🇭🇰 火箭丨香港丨三网直连丨4'
       - '🇭🇰 火箭丨香港丨三网直连丨5'
       - '🇭🇰 火箭丨香港丨三网直连丨6'
@@ -973,6 +982,8 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇭🇰 基础线路丨香港丨三网直连丨1 '
+      - '🇭🇰 基础线路丨香港丨三网直连丨3'
       - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
       - '🇮🇳 火箭丨印度丨孟买'
       - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
@@ -1000,6 +1011,7 @@ proxy-groups:
       - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
       - '🇺🇲 火箭丨美国丨直连'
       - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨中继丨ipel'
       - '🇰🇷 火箭丨韩国丨原生丨'
       - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
       - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
@@ -1014,9 +1026,7 @@ proxy-groups:
       - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
       - '🇭🇰 火箭丨香港丨Trojan丨原生'
       - '🇭🇰 火箭丨香港丨三网优化丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨1 '
       - '🇭🇰 火箭丨香港丨三网直连丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨3'
       - '🇭🇰 火箭丨香港丨三网直连丨4'
       - '🇭🇰 火箭丨香港丨三网直连丨5'
       - '🇭🇰 火箭丨香港丨三网直连丨6'
@@ -1082,6 +1092,8 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇭🇰 基础线路丨香港丨三网直连丨1 '
+      - '🇭🇰 基础线路丨香港丨三网直连丨3'
       - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
       - '🇮🇳 火箭丨印度丨孟买'
       - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
@@ -1109,6 +1121,7 @@ proxy-groups:
       - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
       - '🇺🇲 火箭丨美国丨直连'
       - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨中继丨ipel'
       - '🇰🇷 火箭丨韩国丨原生丨'
       - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
       - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
@@ -1123,9 +1136,7 @@ proxy-groups:
       - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
       - '🇭🇰 火箭丨香港丨Trojan丨原生'
       - '🇭🇰 火箭丨香港丨三网优化丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨1 '
       - '🇭🇰 火箭丨香港丨三网直连丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨3'
       - '🇭🇰 火箭丨香港丨三网直连丨4'
       - '🇭🇰 火箭丨香港丨三网直连丨5'
       - '🇭🇰 火箭丨香港丨三网直连丨6'
@@ -1191,6 +1202,8 @@ proxy-groups:
       - 🚀直接连接
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇭🇰 基础线路丨香港丨三网直连丨1 '
+      - '🇭🇰 基础线路丨香港丨三网直连丨3'
       - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
       - '🇮🇳 火箭丨印度丨孟买'
       - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
@@ -1218,6 +1231,7 @@ proxy-groups:
       - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
       - '🇺🇲 火箭丨美国丨直连'
       - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨中继丨ipel'
       - '🇰🇷 火箭丨韩国丨原生丨'
       - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
       - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
@@ -1232,9 +1246,7 @@ proxy-groups:
       - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
       - '🇭🇰 火箭丨香港丨Trojan丨原生'
       - '🇭🇰 火箭丨香港丨三网优化丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨1 '
       - '🇭🇰 火箭丨香港丨三网直连丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨3'
       - '🇭🇰 火箭丨香港丨三网直连丨4'
       - '🇭🇰 火箭丨香港丨三网直连丨5'
       - '🇭🇰 火箭丨香港丨三网直连丨6'
@@ -1300,6 +1312,8 @@ proxy-groups:
       - 🔰国外流量
       - '🇹🇼 v0丨免费丨台湾丨02'
       - '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
+      - '🇭🇰 基础线路丨香港丨三网直连丨1 '
+      - '🇭🇰 基础线路丨香港丨三网直连丨3'
       - '🇷🇺 火箭丨俄罗斯丨莫斯科丨'
       - '🇮🇳 火箭丨印度丨孟买'
       - '🇹🇼 火箭丨台湾丨BGP中继丨01丨原生丨600Mbps'
@@ -1327,6 +1341,7 @@ proxy-groups:
       - '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
       - '🇺🇲 火箭丨美国丨直连'
       - '🇬🇧 火箭丨英国丨伦敦丨AWS'
+      - '🇰🇷 火箭丨韩国丨中继丨ipel'
       - '🇰🇷 火箭丨韩国丨原生丨'
       - '🇭🇰 火箭丨香港丨BGP中继丨01丨HKT丨1Gbps'
       - '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
@@ -1341,9 +1356,7 @@ proxy-groups:
       - '🇭🇰 火箭丨香港丨HKT丨3丨2Gbps'
       - '🇭🇰 火箭丨香港丨Trojan丨原生'
       - '🇭🇰 火箭丨香港丨三网优化丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨1 '
       - '🇭🇰 火箭丨香港丨三网直连丨2'
-      - '🇭🇰 火箭丨香港丨三网直连丨3'
       - '🇭🇰 火箭丨香港丨三网直连丨4'
       - '🇭🇰 火箭丨香港丨三网直连丨5'
       - '🇭🇰 火箭丨香港丨三网直连丨6'

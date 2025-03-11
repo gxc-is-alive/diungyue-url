@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://sublink.naiko.org/link/vzy9hEQkgTd9BJ2B?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-02-13 09:00:01
+## 上次更新于：2025-03-11 11:08:36
 #---------------------------------------------------#
 
 port: 7890
@@ -559,6 +559,16 @@ proxies:
     obfs: plain
     obfs-param: 0d32e39587.microsoft.com
     udp: true
+  -
+    name: 续费备用节点
+    type: trojan
+    server: 104.26.14.90
+    port: '443'
+    password: NaikoCloud
+    network: ws
+    sni: efc5f8b6-5e1a-4555-bf88-879f161fe72e.823719.xyz
+    ws-opts:
+      path: /trojanws
 proxy-groups:
   -
     name: '✈️ 手动选择'
@@ -748,6 +758,7 @@ proxy-groups:
     proxies:
       - '🌀 负载均衡'
       - '✈️ 手动选择'
+      - 续费备用节点
   -
     name: '🎯 全球直连'
     type: select
@@ -27404,6 +27415,9 @@ rules:
  - DOMAIN-SUFFIX,flzbcdn.xyz,🌀 负载均衡
  - DOMAIN-SUFFIX,ocnttv.com,🌀 负载均衡
  - DOMAIN,naiko.cloud,🌐 访问官网
+ - DOMAIN,api.34bs5xmj09.com,🌐 访问官网
+ - DOMAIN,fastly.jsdelivr.net,🌐 访问官网
+ - DOMAIN,client.crisp.chat,🌐 访问官网
  - DOMAIN-SUFFIX,423down.com,🎯 全球直连
  - DOMAIN-SUFFIX,bokecc.com,🎯 全球直连
  - DOMAIN-SUFFIX,chaipip.com,🎯 全球直连
