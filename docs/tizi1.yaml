@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://ap.dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1
+#!MANAGED-CONFIG https://kuliyun.com/link/O3UcSAW64Cnvaum1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-03-11 11:09:16
+## 上次更新于：2025-03-28 07:55:41
 #---------------------------------------------------#
 
 port: 7890
@@ -19,7 +19,7 @@ proxies:
     server: tt02.alljie.space
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: taiw02.kulime.space
+    sni: taihuo3.kulime.space
   -
     name: '🇹🇼 v0丨免费丨台湾丨官网丨fa123.co丨01'
     type: trojan
@@ -33,7 +33,7 @@ proxies:
     server: hk04.alljie.space
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk04.kulime.space
+    sni: huojian10.kulime.space
   -
     name: '🇭🇰 基础线路丨香港丨三网直连丨3'
     type: trojan
@@ -66,9 +66,9 @@ proxies:
     name: '🇹🇼 火箭丨台湾丨BGP中继丨02丨原生丨600Mbps'
     type: trojan
     server: bgptw02.alljie.space
-    port: 52038
+    port: 52631
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: taiwjing.kulime.space
+    sni: taihuo7.kulime.space
   -
     name: '🇹🇼 火箭丨台湾丨Trojan丨静丨深台中继3'
     type: trojan
@@ -96,21 +96,21 @@ proxies:
     server: st01.alljie.space
     port: 52004
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: taiw02.kulime.space
+    sni: taihuo4.kulime.space
   -
     name: '🇹🇼 火箭丨台湾丨原生丨深台中继丨2'
     type: trojan
     server: st02.alljie.space
     port: 52006
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: tai001.kulime.space
+    sni: taihuo1.kulime.space
   -
     name: '🇹🇼 火箭丨台湾丨原生丨深台中转'
     type: trojan
     server: v1tw01.alljie.space
-    port: 52035
+    port: 54736
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: tai03fqi.kulime.space
+    sni: taihuo8.kulime.space
   -
     name: '🇹🇼 火箭丨台湾丨彰化丨600m'
     type: trojan
@@ -129,7 +129,7 @@ proxies:
     name: '🇸🇬 火箭丨新加坡丨深新中继丨netflix'
     type: trojan
     server: xinjp.alljie.space
-    port: 52160
+    port: 52162
     password: 895e337a-7141-31f2-940c-a831e43b5048
     sni: sghuo1.kulime.space
   -
@@ -201,7 +201,7 @@ proxies:
     server: zhongji03.alljie.space
     port: 55461
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us03.kulime.space
+    sni: meihuo8.kulime.space
   -
     name: '🇺🇲 火箭丨美国丨微软丨沪美中继'
     type: trojan
@@ -213,9 +213,9 @@ proxies:
     name: '🇺🇲 火箭丨美国丨洛杉矶丨原生丨直连'
     type: trojan
     server: azus06.alljie.space
-    port: 11153
+    port: 21253
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us03.allzhen.com
+    sni: meihuo5.kulime.space
   -
     name: '🇺🇲 火箭丨美国丨直连'
     type: trojan
@@ -250,7 +250,7 @@ proxies:
     server: huig03.alljie.space
     port: 52039
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk10.kulime.space
+    sni: hkthuojian1.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨BGP中继丨02丨HKT丨1Gbps'
     type: trojan
@@ -271,14 +271,14 @@ proxies:
     server: v2bgp04.alljie.space
     port: 47651
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hknetflix.kulime.space
+    sni: huojianhkt3.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨BGP中继丨05丨'
     type: trojan
     server: hugang03.alljie.space
     port: 20025
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hkbj.alljie.space
+    sni: huobjp05.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨BGP微软丨1丨1Gbps'
     type: trojan
@@ -327,7 +327,7 @@ proxies:
     server: hk101.alljie.space
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk10.kulime.space
+    sni: huojianhkt4.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨三网优化丨2'
     type: trojan
@@ -341,7 +341,7 @@ proxies:
     server: hk07.alljie.space
     port: 55445
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: safwv07dawjncwsdc.kulime.space
+    sni: huojian11.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨三网直连丨4'
     type: trojan
@@ -439,14 +439,14 @@ proxies:
     server: huig03.alljie.space
     port: 10027
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: az02vip3.kulime.space
+    sni: huokh16.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨徽港中继丨4'
     type: trojan
     server: huig04.alljie.space
     port: 10028
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: az02vip3.kulime.space
+    sni: huokhh4.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨沪港中继丨4丨3x'
     type: trojan
@@ -460,7 +460,7 @@ proxies:
     server: v1hugang5.alljie.space
     port: 10029
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk06.kulime.space
+    sni: huojian6.kulime.space
   -
     name: '🇭🇰 火箭丨香港丨深港中继2丨3x'
     type: trojan
@@ -486,9 +486,9 @@ proxies:
     name: '🇲🇾 火箭丨马来西亚丨原生丨移动中继'
     type: trojan
     server: malai01.alljie.space
-    port: 52036
+    port: 52136
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: my.allzhen.com
+    sni: malaihuo2.kulime.space
   -
     name: '🇭🇰 白金丨0.5x丨J香港丨HKT丨原生'
     type: trojan
@@ -502,7 +502,7 @@ proxies:
     server: zhi10.yuncyo.xyz
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: az02vip3.kulime.space
+    sni: huojian5.kulime.space
   -
     name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨5'
     type: trojan
@@ -530,7 +530,7 @@ proxies:
     server: zhi8.yuncyo.xyz
     port: 443
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: az02vip3.kulime.space
+    sni: huokh15.kulime.space
   -
     name: '🇭🇰 白金丨0.5x丨J香港丨三网专线丨万M'
     type: trojan
@@ -600,21 +600,21 @@ proxies:
     server: v3sm.yuncyo.xyz
     port: 51018
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us03.allzhen.com
+    sni: meihuo9.kulime.space
   -
     name: '🇺🇲 白金丨IEPL丨美国丨2'
     type: trojan
     server: changshaLE.kulime.space
     port: 55015
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: dasfcadvsdklfjhjsd.kulime.space
+    sni: meihuo11.kulime.space
   -
     name: '🇺🇲 白金丨IEPL丨美国丨3'
     type: trojan
     server: changus04.yuncyo.xyz
-    port: 4438
+    port: 44238
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: dasfcadvsdklfjhjsd.kulime.space
+    sni: meihuo6.kulime.space
   -
     name: '🇬🇧 白金丨IEPL丨英国丨'
     type: trojan
@@ -642,14 +642,14 @@ proxies:
     server: fuzai4.yuncyo.xyz
     port: 52031
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk05.allzhen.com
+    sni: huojian7.kulime.space
   -
     name: '🇭🇰 白金丨IEPL丨香港丨HKT丨1'
     type: trojan
     server: hk05lt.yuncyo.xyz
     port: 11163
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk10.kulime.space
+    sni: hkthuojian2.kulime.space
   -
     name: '🇭🇰 白金丨IEPL丨香港丨HKT丨2'
     type: trojan
@@ -670,7 +670,7 @@ proxies:
     server: fuzai6.yuncyo.xyz
     port: 32369
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: az20qdjddjdae.kulime.space
+    sni: huojian8.kulime.space
   -
     name: '🇭🇰 白金丨IEPL丨香港丨HKT丨5 '
     type: trojan
@@ -684,7 +684,7 @@ proxies:
     server: v3az02.yuncyo.xyz
     port: 32391
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: hk05.allzhen.com
+    sni: huojian9.kulime.space
   -
     name: '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
     type: trojan
@@ -712,7 +712,7 @@ proxies:
     server: malai.yuncyo.xyz
     port: 52033
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: my.allzhen.com
+    sni: malaihuo1.kulime.space
   -
     name: '🇭🇰 白金丨J香港丨HGC丨原生丨移动专线'
     type: trojan
@@ -738,16 +738,16 @@ proxies:
     name: '🇺🇲 白金丨美国丨CN2丨01'
     type: trojan
     server: azus05.alljie.space
-    port: 30000
+    port: 35721
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us05.allzhen.com
+    sni: meihuo7.kulime.space
   -
     name: '🇺🇲 白金丨美国丨CN2丨2'
     type: trojan
     server: shaz01.yuncyo.xyz
     port: 22008
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: us05.allzhen.com
+    sni: meihuo10.kulime.space
 proxy-groups:
   -
     name: 🔰国外流量
