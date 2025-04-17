@@ -23,10 +23,10 @@ async function pushToGit() {
 
 const task = async () => {
   console.log("Starting download and push process...");
-  await downloadFile(
-    "https://sublink.naiko.org/link/vzy9hEQkgTd9BJ2B?clash=1",
-    "docs/tizi.yaml"
-  );
+  // await downloadFile(
+  //   "https://sublink.naiko.org/link/vzy9hEQkgTd9BJ2B?clash=1",
+  //   "docs/tizi.yaml"
+  // );
   await downloadFile(
     "https://dingyue888.shop/link/O3UcSAW64Cnvaum1?clash=1",
     "docs/tizi1.yaml"
