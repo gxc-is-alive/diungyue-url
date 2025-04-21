@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://kuliyun.com/link/O3UcSAW64Cnvaum1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2025-04-20 09:00:03
+## 上次更新于：2025-04-21 09:00:03
 #---------------------------------------------------#
 
 port: 7890
@@ -684,7 +684,7 @@ proxies:
     server: v3az02.yuncyo.xyz
     port: 32391
     password: 895e337a-7141-31f2-940c-a831e43b5048
-    sni: huojian9.kulime.space
+    sni: hk05.allzhen.com
   -
     name: '🇭🇰 白金丨IEPL丨香港丨HKT丨7'
     type: trojan
